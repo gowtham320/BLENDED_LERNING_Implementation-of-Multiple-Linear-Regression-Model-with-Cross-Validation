@@ -63,7 +63,11 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+~~~
+Screenshot 2026-02-26 005141.png
+Screenshot 2026-02-26 005155.png
+Screenshot 2026-02-26 005209.png
+~~~
 
 
 ## Result:
